@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+audiobooktools/__init__.py
+audiobooktools/audio_utils.py
+audiobooktools/config.py
+audiobooktools/merger.py
+audiobooktools/models.py
+audiobooktools/scanner.py
+audiobooktools.egg-info/PKG-INFO
+audiobooktools.egg-info/SOURCES.txt
+audiobooktools.egg-info/dependency_links.txt
+audiobooktools.egg-info/requires.txt
+audiobooktools.egg-info/top_level.txt

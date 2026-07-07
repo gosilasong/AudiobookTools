@@ -1,0 +1,8 @@
+ebooklib>=0.19
+beautifulsoup4>=4.13
+lxml>=5.3
+
+[dev]
+black
+ruff
+pytest
